@@ -1,0 +1,9 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+tomato_item:
+  name: tomato
+  info: quantity-15, supplier id-02
+
+garlic_item:
+  name: garlic
+  info: quantity-23, supplier id-05
